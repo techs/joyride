@@ -26,19 +26,6 @@
   
   
     <div id="second"></div>
-    
-    <br>
-    <br>
-    <br><br><br /><br><br /><br>
-    
-    <br><br /><br><br />
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br><br />
-    <br>
     <br>
     <div id="third"></div>
 	
